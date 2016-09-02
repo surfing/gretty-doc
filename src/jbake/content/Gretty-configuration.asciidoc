@@ -247,6 +247,7 @@ Note that interactiveMode only affects interactive tasks: appRun, appRunDebug, f
 | String
 | gretty_port.properties
 | Specifies name of file for gretty service and status port.
+|===
 
 == Web-app-specific properties
 
